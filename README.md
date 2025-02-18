@@ -1,1 +1,1 @@
-# ecommerce-using-django
+# ecommerce
